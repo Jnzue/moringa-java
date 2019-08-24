@@ -1,0 +1,27 @@
+ variable
+  control flows
+for loop
+while loop
+do while 
+
+conditional
+if else
+else if
+switch statement
+datatypes
+ string - double quotes or single quotes eg. "boy" 'boy'
+ boolean
+ int numbers
+ long float
+  double
+
+  symbols
+  objects
+
+
+  var firstName ='peter'
+
+good practise
+  put semicolon after every statement
+for(let i=0; i<=10; i++)
+{console.log}
